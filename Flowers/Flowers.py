@@ -3,6 +3,7 @@
 # כותבים קטע קוד שקורא נתונים מקובץ וממיר את זה ל-dictionary
 
 #Command to install xlrd module :
+aaaa
 
 
 
