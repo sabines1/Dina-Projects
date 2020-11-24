@@ -4,7 +4,7 @@
 
 #Command to install xlrd module :
 
-pip install xlrd
+
 
 # Reading an excel file using Python
 import xlrd
